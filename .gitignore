@@ -6,3 +6,4 @@ debug
 /Makefile.Release
 /Makefile
 /Makefile.Debug
+/*.user
