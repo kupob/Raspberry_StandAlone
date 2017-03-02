@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>QML/Forms/Browser.qml</file>
+        <file>QML/Forms/HomeScreen.qml</file>
+        <file>QML/Forms/main.qml</file>
+        <file>QML/Forms/WiFiSettings.qml</file>
+        <file>QML/Primitives/ActionBar.qml</file>
+        <file>QML/Primitives/RoundedButton.qml</file>
+        <file>QML/Primitives/ScrollButton.qml</file>
+        <file>QML/Constants.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>QML/qmldir</file>
+        <file>QML/Primitives/SlidingForm.qml</file>
+    </qresource>
+</RCC>
