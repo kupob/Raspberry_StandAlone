@@ -112,6 +112,7 @@ Rectangle {
                     id: spacer2;
                     Layout.fillHeight: true;
                     Layout.fillWidth: true;
+                    color: "transparent";
                 }
 
             }
