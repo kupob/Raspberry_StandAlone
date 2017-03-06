@@ -11,7 +11,6 @@ SlidingForm {
         x: 0;
         y: browser.topMargin;
         width: parent.width;
-        height: parent.height - browser.topMargin;
         //        anchors.fill: true;
         spacing: Constants.smallMargin;
 

@@ -5,11 +5,11 @@ import QtQuick.Controls 2.0
 import ".."
 
 Window {
-    visible: true
-    width: 640
-    height: 480
-    minimumWidth: 300;
-    minimumHeight: 200;
+    visible: true;
+    width: 640;
+    height: 366;
+    minimumWidth: 400;
+    minimumHeight: 245;
     title: qsTr("Raspberry Pi 7\" touchscreen")
 
     ColumnLayout {
