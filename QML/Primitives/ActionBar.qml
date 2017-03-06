@@ -6,7 +6,7 @@ import ".."
 Item {
     id: control
     width: parent.width
-    height: 56
+    height: 50
 
     signal backButtonClicked;
 
